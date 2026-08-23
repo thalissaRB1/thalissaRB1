@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟧 thalissa@github
+# thalissa@github
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <td width="48%" valign="top">
 
-### 🟧 `thalissa@github`
+### `thalissa@github`
 
 ```text
 ──────────────────────────────────────────────
@@ -89,7 +89,7 @@ Followers........... Growing
 
 <div align="center">
 
-## 🟦 GitHub Stats
+## GitHub Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=thalissabastos1-beep&show_icons=true&title_color=ff8c42&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117&border_color=30363d"/>
 
@@ -101,7 +101,7 @@ Followers........... Growing
 
 <div align="center">
 
-## 🟧 Technologies
+## Technologies
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,postgres,docker,git,github,vscode"/>
 
